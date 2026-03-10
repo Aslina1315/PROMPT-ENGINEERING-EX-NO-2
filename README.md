@@ -29,7 +29,7 @@ Chain-of-Thought Prompting: Guiding the AI to break down the summarization proce
 
 **Role-Based Prompting:** Instructing the AI to adopt a specific persona while performing the summarization task. Example Prompt: "You are an experienced educator skilled at explaining complex technical topics to undergraduate students. Summarize the following article on blockchain technology in a clear, concise, and engaging manner suitable for this audience. The article is: [The 500-word article]"
 
-**Step 3: **Execution Across AI Platforms:
+**Step 3:**Execution Across AI Platforms:
 
 Each of the four prompting techniques will be applied to the "Basics of Blockchain Technology" article on each of the four selected AI platforms:
 
