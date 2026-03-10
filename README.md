@@ -66,9 +66,7 @@ The "Result" section will provide a detailed and elaborated presentation of the 
 
 **1. Quantitative Data Presentation:**
 A comprehensive table will be presented, showcasing the evaluation scores for each combination of prompting technique and AI platform. This table will have the following structure (example):
-<img width="881" height="594" alt="image" src="https://github.com/user-attachments/assets/c11a10de-883d-4454-b19f-1bfacad5ff34" />
-<img width="924" height="525" alt="image" src="https://github.com/user-attachments/assets/6d98167c-0b7b-49e0-b1ed-47a44dbe95ff" />
-<img width="900" height="392" alt="image" src="https://github.com/user-attachments/assets/2d383a89-2eb0-47f7-84e0-3ce089ab7606" />
+<img width="881" height="594" alt="image" src="https://github.com/user-attachments/assets/c11a10de-883d-4454-b19f-1bfacad5ff34" /><img width="924" height="525" alt="image" src="https://github.com/user-attachments/assets/6d98167c-0b7b-49e0-b1ed-47a44dbe95ff" /><img width="900" height="392" alt="image" src="https://github.com/user-attachments/assets/2d383a89-2eb0-47f7-84e0-3ce089ab7606" />
 
 **2. Qualitative Observations and Analysis:**
 Beyond the numerical scores, this section will provide a detailed qualitative analysis of the generated summaries and the user experience for each combination. This will include:
